@@ -39,6 +39,10 @@ To support the community, I am releasing the decompiled version as a Community E
 
 This is a version focused on visual comfort. A key modification has been implemented to **change the comic display window's background to black**. This alteration aims to reduce eye strain, especially in dark environments or during extended reading sessions. Further improvements and adjustments focusing on usability and reader experience may be added over time.
 
+**Download the latest compiled version here:**
+
+[ComicRackCE v0.9.180 - Black Display](https://github.com/eremita-oficial/ComicRackCE-Black-Display/releases/tag/v0.9.180-black-display)
+
 ---
 
 New Features are listed [here](https://github.com/maforget/ComicRackCE/wiki/New-Features). The complete changelog is [here](https://raw.githubusercontent.com/maforget/ComicRackCE/master/ComicRack/Output/Changes.txt).
