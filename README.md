@@ -33,6 +33,14 @@ This project aims to revive the legendary Comic Manager, ComicRack, which hasn't
 
 To support the community, I am releasing the decompiled version as a Community Edition. Although commercial use can't be prevented, I discourage rebranding and selling it. Please keep expectations realistic; major overhauls, like rewriting the entire program or UI, aren't on the horizon. As a hobbyist programmer, I can handle most code but with time. If you're eager for a new feature, I encourage you to consider implementing it yourself—it's what makes this the Community Edition.
 
+---
+
+### 🌙 Black Display Edition by Eremita Oficial (Update: July 2025)
+
+This is a version focused on visual comfort. A key modification has been implemented to **change the comic display window's background to black**. This alteration aims to reduce eye strain, especially in dark environments or during extended reading sessions. Further improvements and adjustments focusing on usability and reader experience may be added over time.
+
+---
+
 New Features are listed [here](https://github.com/maforget/ComicRackCE/wiki/New-Features). The complete changelog is [here](https://raw.githubusercontent.com/maforget/ComicRackCE/master/ComicRack/Output/Changes.txt).
 
 ## Community Collaboration
