@@ -8,6 +8,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
     <Deterministic>false</Deterministic>
+    <GenerateResourceUsePreserializedResources>true</GenerateResourceUsePreserializedResources>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
@@ -52,6 +53,7 @@
     <PackageReference Include="SharpZipLib">
       <Version>1.4.2</Version>
     </PackageReference>
+    <PackageReference Include="System.Resources.Extensions" Version="8.0.0" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="DLL\Tao.OpenGl.dll" />

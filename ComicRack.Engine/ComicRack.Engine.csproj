@@ -9,6 +9,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
     <Deterministic>false</Deterministic>
+    <GenerateResourceUsePreserializedResources>true</GenerateResourceUsePreserializedResources>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
@@ -26,6 +27,7 @@
     <Reference Include="System.IdentityModel" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Web.Services" />
+    <PackageReference Include="System.Resources.Extensions" Version="8.0.0" />
   </ItemGroup>
   <ItemGroup>
     <AppDesigner Include="Properties\" />

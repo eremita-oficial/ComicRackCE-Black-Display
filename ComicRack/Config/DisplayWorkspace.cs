@@ -19,7 +19,7 @@ namespace cYo.Projects.ComicRack.Viewer.Config
 	[Serializable]
 	public class DisplayWorkspace : IComparable<DisplayWorkspace>, INamed, IDescription
 	{
-		private string backgroundColor = "WhiteSmoke";
+		private string backgroundColor = "Black";
 
 		private float paperTextureStrength = 1f;
 
@@ -256,7 +256,7 @@ namespace cYo.Projects.ComicRack.Viewer.Config
 			set;
 		}
 
-		[DefaultValue("WhiteSmoke")]
+		[DefaultValue("Black")]
 		public string BackgroundColor
 		{
 			get

@@ -27,6 +27,7 @@
         <UseWPF>true</UseWPF>
         <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
         <Deterministic>false</Deterministic>
+        <GenerateResourceUsePreserializedResources>true</GenerateResourceUsePreserializedResources>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
         <DebugType>none</DebugType>
