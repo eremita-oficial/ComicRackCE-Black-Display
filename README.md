@@ -20,6 +20,11 @@ The ComicRack Community Edition is the decompiled version of the original applic
 
 This version focuses on providing **enhanced visual comfort** for reading. The primary modification implemented is the **change of the comic display window's background to black**. This alteration aims to reduce eye strain, especially in low-light environments or during extended reading sessions.
 
+### Key Features: 
+ - Comic display background changed to black.
+ - Reduced eye strain.
+ - All original ComicRackCE functionalities preserved.
+
 Further usability improvements and adjustments may be considered in the future, but the primary focus of this edition is visual comfort.
 
 ---
